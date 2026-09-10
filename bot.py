@@ -42,7 +42,7 @@ async def on_ready():
     await bot.change_presence(
         status=discord.Status.online,
         activity=discord.Activity(
-            type=discord.ActivityType.watching, name="/botinfo | 24/7 online"
+            type=discord.ActivityType.watching, name="Official Statix Bot"
         ),
     )
 
