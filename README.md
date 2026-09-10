@@ -1,6 +1,6 @@
 # Discord Bot (discord.py, Railway-ready)
 
-A simple, production-ready Discord bot with slash commands, built for 24/7
+A simple, production-ready Discord bot with slash commands, built for 24/24
 uptime on Railway.
 
 ## Features
